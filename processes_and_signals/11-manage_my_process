@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 #Bash (init) script that manages `manage_my_process`
 #   When passed the argument `start`:
